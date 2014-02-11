@@ -5,7 +5,8 @@ the-spot.net v2
 
 Description
 ====
-This is a historical repository of the second version of the-spot.net I created.
+This is a historical repository of the second version of the-spot.net I created, 
+officially called "tsnII".
 
 Purpose
 ====
