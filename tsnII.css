@@ -1,0 +1,30 @@
+
+body         	{ font-family: Trebuchet MS; color: #003366; font-size: 10pt; font-weight: bold }
+:hover       	{ font-family: Trebuchet MS; color: #003366; font-weight: bold }
+a:link       	{ font-family: Trebuchet MS; color: #003366; font-weight: bold }
+a:active     	{ font-family: Trebuchet MS; font-weight: bold }
+
+.rant_title		{ font-size: 12pt; font-family: Trebuchet MS; font-weight: bold; text-decoration:underline; text-align:center }
+.rant_date		{ font-size: 11pt; font-family: Trebuchet MS; font-weight: bold }
+.rant_text		{ font-size: 10pt; font-family: Trebuchet MS; font-weight: bold }
+
+.news1			{ font-size: 10pt; font-family: Trebuchet MS; font-weight: bold }
+.news2			{ font-size: 9pt; font-family: Trebuchet MS; font-weight: bold; font-style:italic; text-decoration:underline }
+.news3    	  	{ font-size: 8pt; font-family: Trebuchet MS; font-weight: bold }
+
+.y_table		{ border: 1px solid #FFCC00; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0 }
+.y_table_head	{ color: #003366; font-size: 10pt; font-family: Trebuchet MS; font-weight: bold; text-align: center; height:28; background-color:#FFCC00; background-image:url('images/y_table_head.jpg'); background-repeat:repeat }
+
+.b_table		{ border: 1px solid #003366; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0}
+.b_table_head	{ color: #FFCC00; font-size: 10pt; font-family: Trebuchet MS; font-weight: bold; text-align: center; height:28; background-color:#003366; background-image:url('images/b_table_head.jpg'); background-repeat:repeat }
+
+.r_menu_item 	{ color: #990000; font-size: 8pt; font-family: Trebuchet MS; font-weight: bold; text-align: left; margin-top: 0; margin-bottom: 0 }
+.r_menu_head 	{ font-family: Trebuchet MS; font-size: 10pt; color: #FFFFFF; font-weight: bold }
+.b_menu_head 	{ color: #ffcc00; font-family: Trebuchet MS; font-size: 10pt; font-weight: bold }
+.b_menu_item	{ font-family: Trebuchet MS; font-size: 8pt; color: #003366; font-weight: bold; text-align: left; margin-top: 0; margin-bottom: 0 }
+
+
+a       	    { font-family: Trebuchet MS; color: #003366; font-weight: bold }
+.h1  	        { font-size: 14pt; font-family: Trebuchet MS; color: #003366; font-weight: bold }
+li	         	{ font-family: Trebuchet MS; color: #003366; font-weight: bold }
+.tiny_text		{ font-size: 7pt; font-family: Trebuchet MS; font-weight: bold }

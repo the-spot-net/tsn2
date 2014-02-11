@@ -1,0 +1,8 @@
+<%
+' Username and password for the saywhat1.Results Database Editor 
+' are set here:
+
+Username="Neo"
+Password="softworks"
+%>
+

@@ -1,0 +1,46 @@
+Posted: Wed Jul 03, 2002 2:58 pm    Post subject: Cloning Nokia CellPhones   
+
+--------------------------------------------------------------------------------
+ 
+Code Title: Cloning 
+
+Model Number: 21XX,51XX,61XX,636,639,918 
+
+Code: *#639# 
+
+Code Description: You will need to know two things in order to clone the phone: 
+1) CELL PHONE NUMBER 
+This is the number of the cell phone that you want to clone, with the area code on it. I am sure that everyone knows what a phone number looks like. It has to be in 10-digit order: (###)###-#### 
+2) SYSTEM ID 
+To first start off you must find out the system id for the area that you are 
+in.You can do this by calling your local cell phone supplier and say you are programming your cell phone to another number because you are selling it or somthing like that and they will give you a system id number it will consist of a five diget number eg: 16425 which is for the lower mainland for British Columbia. 
+
+Once you input all that information the phone will automatically turn off and then back on and that's it. If the phone was programmed incorrectly the display will read "Activation Failed". 
+
+Model Number: P1000/100/PT101/PT128/PT228/PT232 
+
+Code: 
+1)Press *3001#12345 
+2)Display reads 00 
+3)Hold CLR down for few seconds, then enter ten digit phone number, press store,02,store,CLR (hold for few seconds) 
+4)Enter sys id 
+5)Press *1*10333*05*05, press store 
+6)Press 03, press store 
+7)Press CLR 
+8)Power phone off to exit and save programming 
+
+Model Number: 232/239/515 
+
+Code: 
+1)Enter *3001#12345 , press STO 00 
+2)Press and hold CLR (you will hear 2 beeps) 
+3)Enter 911#5551212#0 * 12345, STO, 01, STO 
+4)Press and hold CLR (you will hear 2 beeps) 
+5)Enter local area code plus the cell phone number, press STO, 02, STO 
+6)Press and hold CLR (you will hear 2 beeps) 
+7)Press *1*1 *333*15*05# 0111 * 1 ,STO, 03, STO 
+8)Press and hold CLR (you will hear 2 beeps) 
+9)Turn phone off, then on
+_________________
+Lataz, 
+SquirreL 

@@ -1,0 +1,104 @@
+<!-- BEGINNING OF CODE SNIPPET -->
+
+<form action="http://www.blueletterbible.org/cgi-bin/words.pl" method="GET" >
+
+ <!- Place the URL of the WEB PAGE you are
+     calling from into the following "Value" -->
+ <input
+  value="http://www.blueletterbible.org/freeoffer.html"
+  name="hr"
+  type="hidden" >
+
+
+ <!- Place the URL of your LOGO into the following "Value" -->
+ <input
+  value="http://www.blueletterbible.org/gifs/your_logo.gif"
+  name="icon"
+  type="hidden" >
+
+ <!- Place the desired hexadecimal color value for your
+     BACKGROUND into the following "Value" -->
+ <input
+  value="FFFFFF"
+  name="bgcolor"
+  type="hidden" >
+
+
+ <!- Place the desired hexadecimal color code for your
+     TEXT into the following "Value" -->
+ <input
+   value="000000"
+   name="textcolor"
+   type="hidden" >
+
+
+ <!- Place the desired hexadecimal color code for
+     LINKS into the following "Value" -->
+ <input
+   value="39398C"
+   name="linkcolor"
+   type="hidden" >
+
+
+ <!- Place the desired hexadecimal color code for
+     VISITED LINKS into the following "Value" -->
+ <input
+   value="0000FF"
+   name="vlinkcolor"
+   type="hidden" >
+
+
+ <!- Place into the following "Value" whether you
+  desire the version which shows Strong's numbers
+       "yes" = show Strongs numbers
+       "no"  = surpress Strongs numbers   ->
+ <input
+   value="yes"
+   name="show_strongs"
+   type="hidden" >
+
+<DIV ALIGN=CENTER><CENTER>
+<TABLE BORDER="1" BORDERCOLOR="000000" CELLPADDING="4"
+ CELLSPACING="0" WIDTH="450">
+<TR>
+<TD ALIGN="CENTER" BGCOLOR="39398c">
+  <B><FONT COLOR="FFFFFF">
+  Phrase Search / Concordance
+  </FONT></B>
+</TD>
+</TR>
+<TR>
+<TD>
+  <TABLE BORDER="0" BORDERCOLOR="000000" CELLPADDING="0"
+    CELLSPACING="0" ALIGN="CENTER">
+  <TR VALIGN="middle">
+  <TD VALIGN="top" ALIGN="CENTER">
+    Words/Phrase To Search For
+    <input type="text" size="30" name="word">
+  </TD>
+  <TD VALIGN="middle" ALIGN="CENTER" NOWRAP ROWSPAN="2">
+    <INPUT TYPE="image" BORDER="0"
+    SRC="http://www.blueletterbible.org/gifs/wordsearch.gif"
+    NAME="anything" WIDTH=82 HEIGHT=32 ALT="Word Seach">
+  </TD>
+  </TR>
+  <TR VALIGN="middle">
+  <TD VALIGN="top" ALIGN="CENTER">
+    <FONT SIZE="2">(e.g. <B>Jesus faith love</B>,
+    or <B>God of my salvation</B>,
+    or <b>believ* ever*</b>)
+    </FONT>
+  </TD>
+  </TR>
+  </TABLE>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</DIV>
+</FORM>
+
+
+
+<!-- END OF CODE SNIPPET -->
+
